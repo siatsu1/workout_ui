@@ -1,6 +1,6 @@
 # workout_app
 
-A new Flutter application.
+Submisson Belajar Membuat Aplikasi Flutter untuk Pemula
 
 ## Getting Started
 
