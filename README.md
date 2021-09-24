@@ -1,4 +1,4 @@
-# workout_app
+# Dicoding-Submission Belajar Membuat Aplikasi Flutter untuk Pemula
 
 Submisson Belajar Membuat Aplikasi Flutter untuk Pemula
 
